@@ -1,0 +1,18 @@
+
+#myId {
+    color: blue;
+}
+
+.myClass {
+    color: blueviolet;
+    background-color: yellowgreen;
+}
+
+body{
+    background-color: beige;
+}
+
+button{
+    background-color: brown;
+    color: white;
+}
